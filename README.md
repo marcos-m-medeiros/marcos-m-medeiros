@@ -1,4 +1,4 @@
-## Oi, me chamo Marcos Medeiros!
+## Olá, me chamo Marcos Medeiros!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-m-medeiros&show_icons=true&theme=tokyonight)
 
